@@ -83,4 +83,4 @@ syspurpose==1.25.17
 systemd-python==234
 urllib3==1.24.2
 virtualenv==15.1.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
